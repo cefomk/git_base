@@ -1,0 +1,5 @@
+
+<a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/legalcode.fr">
+  <img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
+  <br />
+  Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/legalcode.fr">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International</a>.
