@@ -44,5 +44,4 @@ git remote add origin https://github.com/user/nom_de_votre_depot.git
 git push -u origin main
 ```
 
----
 
