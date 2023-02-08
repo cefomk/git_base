@@ -1,5 +1,7 @@
 # Git
 
+[Git documentation](https://git-scm.com/doc)
+
 `git config --global user.name "votre_nom"`
 
 `git config --global user.email "votre_email"`
